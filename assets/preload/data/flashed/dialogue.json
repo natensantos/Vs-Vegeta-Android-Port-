@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "vegeta",
+			"boxState": "normal",
+			"expression": "super smirk",
+			"text": "Not bad, that made for a good warm-up! But unfortunately for you..."
+		},
+		{
+			"speed": 0.015,
+			"portrait": "vegeta",
+			"boxState": "angry",
+			"expression": "super to blue",
+			"text": "AAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAGGGGHHH!!!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "vegeta",
+			"boxState": "normal",
+			"expression": "blue idle",
+			"text": "...…here comes Super Saiyan Blue."
+		}
+	]
+}

@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "sunsetstage",
+		"player1": "bf",
+		"player2": "vegeta-blue",
+		"player3": null,
+		"events": [
+			[
+				68700,
+				[
+					[
+						"Play Animation",
+						"firstmock",
+						"Dad"
+					]
+				]
+			],
+			[
+				72075,
+				[
+					[
+						"Play Animation",
+						"scream",
+						"Dad"
+					]
+				]
+			],
+			[
+				72600,
+				[
+					[
+						"Screen Shake",
+						"1.75, 0.075",
+						"1.75, 0.075"
+					]
+				]
+			],
+			[
+				74300,
+				[
+					[
+						"Change Character",
+						"dad",
+						"vegeta-blue-aura"
+					]
+				]
+			],
+			[
+				74400,
+				[
+					[
+						"Screen Shake",
+						"9999, 0.003",
+						"9999, 0.0035"
+					]
+				]
+			],
+			[
+				85449.375,
+				[
+					[
+						"Play Animation",
+						"damn",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": "SSBNOTE_assets",
+		"needsVoices": true,
+		"song": "Flashed"
+	}
+}
