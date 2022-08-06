@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "vegeta",
+		"player3": "gf",
+		"events": [
+			[
+				93725,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"dad"
+					]
+				]
+			],
+			[
+				94714.2857142857,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1, 0.05"
+					]
+				]
+			],
+			[
+				94857.1428571429,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				95967.8571428572,
+				[
+					[
+						"Change Character",
+						"dad",
+						"vegeta-supasaiyajin"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.07"
+					]
+				]
+			],
+			[
+				113685.714285714,
+				[
+					[
+						"Play Animation",
+						"slow",
+						"dad"
+					]
+				]
+			],
+			[
+				114285.714285714,
+				[
+					[
+						"Change Scroll Speed",
+						"1.25",
+						""
+					]
+				]
+			],
+			[
+				132235.714285714,
+				[
+					[
+						"Play Animation",
+						"what",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 105,
+		"arrowSkin": "NOTE_assets",
+		"needsVoices": true,
+		"song": "Badman"
+	}
+}

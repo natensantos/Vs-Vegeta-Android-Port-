@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"expression": "idle",
+			"text": "Y'’know, when I was told I'’d find a \nblue-haired opponent here, I expected someone...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "vegeta"
+		},
+		{
+			"expression": "idle",
+			"text": "...bigger.",
+			"boxState": "normal",
+			"speed": 0.07,
+			"portrait": "vegeta"
+		},
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "deadass",
+			"text": "What was that?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "vegeta"
+		},
+		{
+			"expression": "talk",
+			"text": "bah bee do?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "anger",
+			"text": "How DARE...… I don'’t know what you’'re saying but your tone obviously implies that you'’re mocking me!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "vegeta"
+		},
+		{
+			"expression": "pissed",
+			"text": "skeebede bop mm dada",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "rage",
+			"text": "I'’ll make you eat those words, you little runt! We settle this! Now!",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "vegeta"
+		},
+		{
+			"expression": "talk",
+			"text": "bup",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smirk",
+			"text": "Don'’t underestimate me boy, I can crush you without a second thought!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "vegeta"
+		},
+		{
+			"expression": "shocked",
+			"text": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smirk",
+			"text": " But, to make things more interesting...I'll give you a fair shot.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "vegeta"
+		}
+	]
+}
