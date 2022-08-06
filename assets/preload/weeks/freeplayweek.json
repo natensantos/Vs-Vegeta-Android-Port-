@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Restraint", "vegeta", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "for the funny",
+	"weekBefore": "week1",
+	"weekName": "Freeplay Week",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
